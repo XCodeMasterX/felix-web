@@ -1,2 +1,2 @@
-# felix-web
+# Felix Web
 Personal website
